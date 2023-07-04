@@ -1,5 +1,6 @@
 # AWS Certified Solutions Architect - Associate (SAA-C03) Exam Notes
 
+![](saa.png)
 
 ## AWS Fundamentals
 
