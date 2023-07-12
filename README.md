@@ -4,8 +4,8 @@
 
 
 ## Online Courses
-Stephane Maarek – Ultimate AWS Certified Solutions Architect Associate SAA-C03
-CloudGuru - AWS Certified Solutions Architect - Associate (SAA-C03)
+- [Stephane Maarek – Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [CloudGuru - AWS Certified Solutions Architect - Associate (SAA-C03)](https://www.pluralsight.com/cloud-guru/courses/aws-certified-solutions-architect-associate-saa-c03)
 Adrian Cantrill – AWS Certified Solutions Architect – Associate (SAA-C03)
 Adrian Cantrill – All Associate Bundle
 DolfinEd – AWS Certified Solutions Architect Associate – SAA-C03 (E-Study & Lab Guides Included)
