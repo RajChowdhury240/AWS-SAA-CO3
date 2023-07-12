@@ -2,6 +2,24 @@
 
 ![](saa.png)
 
+
+## Online Courses
+Stephane Maarek – Ultimate AWS Certified Solutions Architect Associate SAA-C03
+CloudGuru - AWS Certified Solutions Architect - Associate (SAA-C03)
+Adrian Cantrill – AWS Certified Solutions Architect – Associate (SAA-C03)
+Adrian Cantrill – All Associate Bundle
+DolfinEd – AWS Certified Solutions Architect Associate – SAA-C03 (E-Study & Lab Guides Included)
+DolfinEd – AWS Certified Solutions Architect Associate (On-line, Instructor-Led – Private Group Bootcamp)
+Whizlabs – AWS Certified Solutions Architect Associate Course
+Coursera Exam Prep: AWS Certified Solutions Architect – Associate
+
+## Practice tests
+Braincert AWS Solutions Architect – Associate SAA-C03 Practice Exams, which are updated for SAA-C03
+Stephane Maarek – AWS Certified Solutions Architect Associate Practice Exams
+Whizlabs – AWS Certified Solutions Architect Associate Practice Tests
+
+Signed up with AWS for the Free Tier account which provides a lot of Services to be tried for free with certain limits which are more than enough to get things going. 
+
 ## AWS Fundamentals
 
 - [AWS Building Blocks](1-aws-fundamentals/aws-building-blocks.md)
