@@ -19,6 +19,8 @@
 
 
 ## Practice tests
+- [Udemy Practice Exam set of 6](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03/)
+
 - Braincert AWS Solutions Architect – Associate SAA-C03 Practice Exams, which are updated for SAA-C03
 
 - Stephane Maarek – AWS Certified Solutions Architect Associate Practice Exams
